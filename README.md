@@ -2,10 +2,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alaa%20Atef%20Elesily&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Computer%20Science%20Student&descSize=20&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eng.Alaa%20Atef%20Elesily&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Developer%20|%20Computer%20Science%20Student&descSize=20&descAlignY=65" />
 
 <!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=👋+Hello+World!;+Full-Stack+Developer;+Open-Source+Enthusiast;+AI/ML+Learner;+Problem+Solver;+Tech+Innovator" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=👋+Hello+I'm+Alaa!;+Full-Stack+Developer;+Open-Source+Enthusiast;+AI/ML+Learner;+Problem+Solver;+Tech+Innovator" />
 
 <!-- Profile Views -->
 <p align="center">
